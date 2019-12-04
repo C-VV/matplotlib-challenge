@@ -1,0 +1,6 @@
+- Capomulin, far and away, was the best performing drug listed within the report.
+-  While Infubinol was one of the better performers in our report regarding 
+	metastatic spread during treatment and tumor response, its survival rate 
+	over days was the pooreset performing drug.
+- closest change in Tumor Volume change between Capomulin and the next best performing 
+	drug is 65% - which was Infubinol
